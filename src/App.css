@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap");
+
+body {
+  background: no-repeat center center fixed;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)),
+    url("./assets/cloud2.jpg");
+  color: #fff;
+  font-family: "Fira Sans", sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+
+.App {
+  margin-bottom: 50px;
+}
+

@@ -1,0 +1,29 @@
+.mainBoxx{
+     width: 100%;
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+
+h1{
+     text-align: center;
+}
+
+.mainBoxBelow{
+     width: 1000px;
+     display: flex;
+     flex-wrap: wrap;
+}
+
+.mainBoxBelowBox{
+     padding: 5px;    
+}
+
+
+.noData{
+     width: 100%;
+     display: flex;
+     justify-content: center;
+}
+
